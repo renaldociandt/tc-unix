@@ -1,2 +1,3 @@
 #!/bin/bash
 ls -l shell_basics
+ls -l shell_basic
