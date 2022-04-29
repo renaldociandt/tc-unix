@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -al
-ls -al /home/projeto-Shell_basic 
-ls -al /boot/
+ls -al shell_basics/ /home/projeto-Shell_basic/ /boot/
